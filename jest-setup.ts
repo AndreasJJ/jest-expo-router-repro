@@ -1,3 +1,5 @@
+/// <reference types="expo-router/types/expect" />
+
 import '@testing-library/jest-native/extend-expect';
 import { load } from '@expo/env';
 
